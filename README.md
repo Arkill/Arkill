@@ -47,7 +47,7 @@ Obrigado por visitar meu perfil! Sinta-se à vontade para conferir meus projetos
       <img src="https://github-readme-stats.vercel.app/api?username=Arkill&show_icons=true&theme=onedark" alt="Estatísticas do GitHub" width="450" height="200">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkill&theme=onedark&layout=compact&langs_count=10" alt="Top Languages" width="300" height="270">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkill&theme=onedark&layout=compact&langs_count=10" alt="Top Languages" width="340" height="200">
     </td>
   </tr>
 </table>
