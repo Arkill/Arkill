@@ -31,22 +31,24 @@ Bem-vindo ao meu perfil no GitHub! Sou formada em **Técnico em Informática** e
 
 ##
 <br>
-<div>
-  <a href="https://www.instagram.com/seu_usuario/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" onmouseover="this.style.boxShadow='0px 0px 10px #E4405F'" onmouseout="this.style.boxShadow='none'">
-  </a> 
-  <a href="mailto:mariaap4arecida00670@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23DB4437?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" onmouseover="this.style.boxShadow='0px 0px 10px #DB4437'" onmouseout="this.style.boxShadow='none'">
-  </a>
-  <a href="https://www.linkedin.com/in/maria-aparecida-aa68a4243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" onmouseover="this.style.boxShadow='0px 0px 10px #0077B5'" onmouseout="this.style.boxShadow='none'">
-  </a>
-</div><br>
+<div> 
+<a href="https://www.instagram.com/seu_usuario/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;&nbsp;&nbsp; <!-- Espaçamento entre os ícones --><a href="mailto:mariaap4arecida00670@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23DB4437?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;&nbsp;&nbsp; <!-- Espaçamento entre os ícones -->
+<a href="https://www.linkedin.com/in/maria-aparecida-aa68a4243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div><br>
+
 
 Obrigado por visitar meu perfil! Sinta-se à vontade para conferir meus projetos e entrar em contato se quiser colaborar!
 
 ---
 <br>
 
-| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Arkill&show_icons=true&theme=onedark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkill&theme=onedark&layout=compact&langs_count=10) |
-| :---: | :---: |
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Arkill&show_icons=true&theme=onedark" alt="Estatísticas do GitHub" width="450" height="200">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkill&theme=onedark&layout=compact&langs_count=10" alt="Top Languages" width="300" height="270">
+    </td>
+  </tr>
+</table>
+
