@@ -1,6 +1,6 @@
 ## Olá, sou Maria 👋
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?Arkill=Arkill&show_icons=true&theme=radical)
+![Estrelas](https://img.shields.io/github/stars/Arkill/Arkill?style=social) ![Forks](https://img.shields.io/github/forks/Arkill/Arkill?style=social)
 
 Bem-vindo ao meu perfil no GitHub! Sou formada em **Técnico em Informática** e atualmente estou cursando **Ciências da Computação**. Tenho uma paixão por desenvolvimento de software, automação e tecnologias web. Aqui está um pouco sobre o que estou fazendo e como você pode me encontrar.
 
@@ -39,3 +39,9 @@ Bem-vindo ao meu perfil no GitHub! Sou formada em **Técnico em Informática** e
 ---
 
 Obrigado por visitar meu perfil! Sinta-se à vontade para conferir meus projetos e entrar em contato se quiser colaborar!
+
+
+
+
+| ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Arkill&show_icons=true&theme=onedark) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arkill&theme=onedark&hide=HTML,TeX&layout=compact&langs_count=10) |
+| :---: | :---: |
