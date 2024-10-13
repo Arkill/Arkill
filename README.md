@@ -47,8 +47,13 @@ Obrigado por visitar meu perfil! Sinta-se à vontade para conferir meus projetos
       <img src="https://github-readme-stats.vercel.app/api?username=Arkill&show_icons=true&theme=onedark" alt="Estatísticas do GitHub" width="450" height="200">
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkill&theme=onedark&layout=compact&langs_count=10" alt="Top Languages" width="340" height="200">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkill&theme=onedark&layout=compact&langs_count=10" alt="Top Languages" width="450" height="200">
     </td>
   </tr>
+  <tr>
+ <tr>
+  <td colspan="2">
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/679eafd8-88a3-4304-9836-53334d1782ff/d8xebfv-426f3ffd-b748-4f61-b67d-2bc9b2e3d16f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY3OWVhZmQ4LTg4YTMtNDMwNC05ODM2LTUzMzM0ZDE3ODJmZlwvZDh4ZWJmdi00MjZmM2ZmZC1iNzQ4LTRmNjEtYjY3ZC0yYmM5YjJlM2QxNmYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8KMaE-uRz2iH_LkEhzalwPTmAEG97007mZHD5NJV0Vg" alt="Bonnie" />
+  </td>
+ </tr>
 </table>
-
