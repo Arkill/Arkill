@@ -12,10 +12,6 @@ Bem-vindo ao meu perfil no GitHub! Sou formada em **Técnico em Informática** e
 - Aprofundando meu entendimento sobre **computação em nuvem** e práticas de **DevOps**.
 - Explorando **aprendizado de máquina** e **IA** para projetos futuros.
 
-### 🤔 Estou buscando ajuda com:
-- Aprender mais sobre **infraestrutura em nuvem** e **sistemas distribuídos**.
-- Dicas sobre como estruturar melhor projetos de grande escala para manutenção.
-
 ### 📫 Criações:
 - Portfólio: [Em construção...](https://website.com)
 
