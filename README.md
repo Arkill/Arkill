@@ -5,7 +5,7 @@
 Bem-vindo ao meu perfil no GitHub! Sou formada em **Técnico em Informática** e atualmente estou cursando **Ciências da Computação**. Tenho uma paixão por desenvolvimento de software, automação e tecnologias web. Aqui está um pouco sobre o que estou fazendo e como você pode me encontrar.
 
 ### 🔭 Atualmente estou trabalhando em:
-- **Microlins**: Estagiaria/Monitora de Informatica.
+- ** Digiboard Eletrônica da Amazônia Ltda**: Estagiaria de Suporte de T.I
 
 ### 🌱 Estou aprendendo:
 - Conceitos avançados em **Java**, **JavaScript** e **Python**.
