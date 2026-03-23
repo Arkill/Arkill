@@ -13,7 +13,7 @@ Bem-vindo ao meu perfil no GitHub! Sou formada em **Técnico em Informática** e
 - Explorando **aprendizado de máquina** e **IA** para projetos futuros.
 
 ### 📫 Criações:
-- Portfólio: [](https://portifolio-arkill.vercel.app/)
+- Portfólio: [https://portifolio-arkill.vercel.app/](https://portifolio-arkill.vercel.app/)
 
 ### 😄 Pronomes:
 - Ela/Dela.
