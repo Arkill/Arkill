@@ -60,13 +60,9 @@ Projeto pessoal para apresentação de habilidades (em desenvolvimento).
 ---
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Arkill&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkill&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Arkill&show_icons=true&theme=tokyonight" />
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkill&layout=compact&theme=tokyonight" />
 
 ## 🌐 Contato
 
