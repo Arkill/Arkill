@@ -1,43 +1,83 @@
-## Olá, sou Maria 👋
+# 👩‍💻 Olá, eu sou a Maria Aparecida!
 
-![Estrelas](https://img.shields.io/github/stars/Arkill/Arkill?style=social) ![Forks](https://img.shields.io/github/forks/Arkill/Arkill?style=social)
+🎓 Estudante de Ciência da Computação (5º período)  
+💻 Desenvolvedora Full Stack em formação  
+📍 Manaus - AM  
 
-Bem-vindo ao meu perfil no GitHub! Sou formada em **Técnico em Informática** e atualmente estou cursando **Ciências da Computação**. Tenho uma paixão por desenvolvimento de software, automação e tecnologias web. Aqui está um pouco sobre o que estou fazendo e como você pode me encontrar.
+---
 
-### 🔭 Atualmente estou trabalhando em:
-- **Digiboard Eletrônica da Amazônia Ltda**: Estagiaria de Suporte de T.I.
+## 🚀 Sobre mim
 
-### 🌱 Estou aprendendo:
-- Conceitos avançados em **Java**, **JavaScript** e **Python**.
-- Aprofundando meu entendimento sobre **computação em nuvem** e práticas de **DevOps**.
-- Explorando **aprendizado de máquina** e **IA** para projetos futuros.
+Sou apaixonada por tecnologia e desenvolvimento de software, com experiência prática na criação de sistemas e soluções web.
 
-### 📫 Criações:
-- Portfólio: [https://portifolio-arkill.vercel.app/](https://portifolio-arkill.vercel.app/)
+Atualmente atuo na área de TI com foco em monitoramento de infraestrutura e desenvolvimento de sistemas internos, buscando sempre evoluir minhas habilidades e construir soluções eficientes.
 
-### 😄 Pronomes:
-- Ela/Dela.
+---
 
-### ⚡ Curiosidade:
-- Adoro resolver quebra-cabeças, tanto em programação quanto na vida real! Também sou apaixonada por Musica, Jogos, HQs e Tec.
+## 🛠️ Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Maria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Maria-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Maria-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
+### 💻 Front-end
+- Angular  
+- JavaScript  
+- TypeScript  
+- HTML  
+- CSS / SCSS  
+- Bootstrap  
 
-##
-<br>
-<div> 
-<a href="https://www.instagram.com/seu_usuario/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>&nbsp;&nbsp;&nbsp; <!-- Espaçamento entre os ícones --><a href="mailto:mariaap4arecida00670@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23DB4437?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>&nbsp;&nbsp;&nbsp; <!-- Espaçamento entre os ícones -->
-<a href="https://www.linkedin.com/in/maria-aparecida-aa68a4243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></div><br>
+### ⚙️ Back-end / Linguagens
+- Python  
+- Java  
+- C / C++  
 
+### 🗄️ Banco de Dados
+- MySQL  
+- SQL Server  
+- MariaDB  
 
-Obrigado por visitar meu perfil! Sinta-se à vontade para conferir meus projetos e entrar em contato se quiser colaborar!
+### 🔧 Ferramentas
+- Git e GitHub  
+- Postman  
+- Zabbix  
+- Grafana  
 
+---
+
+## 📂 Projetos
+
+🔹 **Sistema de Gerenciamento de Veículos**  
+Aplicação para controle e organização de veículos com integração a banco de dados.
+
+🔹 **Sistema de Monitoramento de Energia**  
+Solução para análise de consumo energético de servidores utilizando dashboards.
+
+🔹 **Portfólio Web**  
+Projeto pessoal para apresentação de habilidades e projetos (em desenvolvimento).
+
+---
+
+## 📈 Atualmente estudando
+
+- Desenvolvimento com Angular  
+- Integração de APIs REST  
+- Boas práticas de desenvolvimento  
+- Computação em nuvem e DevOps  
+- Inteligência Artificial aplicada  
+
+---
+
+## 🌐 Contato
+
+📧 Email: (coloque aqui)  
+💼 LinkedIn: (seu link)  
+🐙 GitHub: (seu link)  
+
+---
+
+## 🚀 Objetivo
+
+Busco oportunidade como Desenvolvedora Júnior ou Estagiária em Desenvolvimento para aplicar meus conhecimentos, aprender continuamente e contribuir com soluções tecnológicas.
+
+⭐ Obrigada por visitar meu perfil!
 ---
 <br>
 <table style="width: 100%; margin: auto;">
