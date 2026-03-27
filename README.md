@@ -62,8 +62,8 @@ Projeto pessoal para apresentação de habilidades (em desenvolvimento).
 
 <div align="center">
   
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Arkill&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arkill&layout=compact&theme=tokyonight"/>
 
 </div>
 
