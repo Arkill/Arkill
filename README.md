@@ -17,28 +17,22 @@ Atualmente atuo na área de TI com foco em monitoramento de infraestrutura e des
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 💻 Front-end
-- Angular  
-- JavaScript  
-- TypeScript  
-- HTML  
-- CSS / SCSS  
-- Bootstrap  
+<img src="https://skillicons.dev/icons?i=angular,js,ts,html,css,bootstrap" />
 
 ### ⚙️ Back-end / Linguagens
-- Python  
-- Java  
-- C / C++  
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
 
 ### 🗄️ Banco de Dados
-- MySQL  
-- SQL Server  
-- MariaDB  
+<img src="https://skillicons.dev/icons?i=mysql" />
 
 ### 🔧 Ferramentas
-- Git e GitHub  
-- Postman  
-- Zabbix  
-- Grafana  
+<img src="https://skillicons.dev/icons?i=git,github,postman" />
+
+### 📊 Monitoramento
+<p>
+  <img src="https://img.shields.io/badge/Zabbix-red?style=for-the-badge&logo=zabbix&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-orange?style=for-the-badge&logo=grafana&logoColor=white"/>
+</p>
 
 ---
 
@@ -48,10 +42,10 @@ Atualmente atuo na área de TI com foco em monitoramento de infraestrutura e des
 Aplicação para controle e organização de veículos com integração a banco de dados.
 
 🔹 **Sistema de Monitoramento de Energia**  
-Solução para análise de consumo energético de servidores utilizando dashboards.
+Solução para análise de consumo energético de servidores com dashboards.
 
 🔹 **Portfólio Web**  
-Projeto pessoal para apresentação de habilidades e projetos (em desenvolvimento).
+Projeto pessoal para apresentação de habilidades (em desenvolvimento).
 
 ---
 
@@ -65,17 +59,27 @@ Projeto pessoal para apresentação de habilidades e projetos (em desenvolviment
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+![Maria's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+
+---
+
 ## 🌐 Contato
 
-📧 Email: (coloque aqui)  
-💼 LinkedIn: (seu link)  
-🐙 GitHub: (seu link)  
+📧 Email: seuemail@email.com  
+💼 LinkedIn: https://linkedin.com/in/seu-link  
+🐙 GitHub: https://github.com/SEU-USUARIO  
 
 ---
 
 ## 🚀 Objetivo
 
 Busco oportunidade como Desenvolvedora Júnior ou Estagiária em Desenvolvimento para aplicar meus conhecimentos, aprender continuamente e contribuir com soluções tecnológicas.
+
+---
 
 ⭐ Obrigada por visitar meu perfil!
 ---
